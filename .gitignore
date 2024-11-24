@@ -1,0 +1,102 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# DJango extensions:
+staticfiles/
+# static/
+
+# Environment variables
+.env
+*.env
+
+# pytest
+.cache/
+.tox/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.env/
+.venv/
+env.bak/
+env.bak/
+
+# VSCode settings
+.vscode/
+
+# IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python egg files
+*.egg
+*.egg-info/
+.installed.cfg
+*.egg
+
+# SQLite database
+*.sqlite3
+
+# Cache files
+*.bak
+*.swp
+*~
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.nox/
